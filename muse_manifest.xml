@@ -1,0 +1,21 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://gabariellegg.github.io/cvA2020" resolutions="1x" timestamp="1605958075850">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="4012575917" ref="index"/>
+    <file name="index.css" crc="409218497" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="2logo-univparis8.png" crc="100745091" seo="true" ref="index"/>
+    <file name="logo_cli.png" crc="300947896" seo="true" ref="index"/>
+    <file name="1200px-université_laval_logo_et_textesvg.png" crc="4036746007" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4061530778" seo="true" mt="1605958013235" redirect="true"/>
+</manifest>
